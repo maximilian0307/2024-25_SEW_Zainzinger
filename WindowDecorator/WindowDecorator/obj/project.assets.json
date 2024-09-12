@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maximilian\\OneDrive - HTL Krems\\Apps\\Desktop\\Schule\\4CHIT\\SEW\\WindowDecorator\\WindowDecorator\\WindowDecorator.csproj",
+      "projectUniqueName": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\WindowDecorator\\WindowDecorator\\WindowDecorator.csproj",
       "projectName": "WindowDecorator",
-      "projectPath": "C:\\Users\\Maximilian\\OneDrive - HTL Krems\\Apps\\Desktop\\Schule\\4CHIT\\SEW\\WindowDecorator\\WindowDecorator\\WindowDecorator.csproj",
+      "projectPath": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\WindowDecorator\\WindowDecorator\\WindowDecorator.csproj",
       "packagesPath": "C:\\Users\\Maximilian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maximilian\\OneDrive - HTL Krems\\Apps\\Desktop\\Schule\\4CHIT\\SEW\\WindowDecorator\\WindowDecorator\\obj\\",
+      "outputPath": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\WindowDecorator\\WindowDecorator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,6 +14,11 @@ namespace Strategy_Adapter_Decorator
         {
             Console.WriteLine("Mallard Duck quacks: Quack Quack.");
         }
+
+        public string QuackAndCount()
+        {
+            throw new NotImplementedException();
+        }
     }
 
 }

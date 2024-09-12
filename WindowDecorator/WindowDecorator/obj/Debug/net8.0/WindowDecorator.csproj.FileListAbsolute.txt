@@ -2,3 +2,18 @@ C:\Users\Maximilian\OneDrive - HTL Krems\Apps\Desktop\Schule\4CHIT\SEW\WindowDec
 C:\Users\Maximilian\OneDrive - HTL Krems\Apps\Desktop\Schule\4CHIT\SEW\WindowDecorator\WindowDecorator\obj\Debug\net8.0\WindowDecorator.AssemblyInfoInputs.cache
 C:\Users\Maximilian\OneDrive - HTL Krems\Apps\Desktop\Schule\4CHIT\SEW\WindowDecorator\WindowDecorator\obj\Debug\net8.0\WindowDecorator.AssemblyInfo.cs
 C:\Users\Maximilian\OneDrive - HTL Krems\Apps\Desktop\Schule\4CHIT\SEW\WindowDecorator\WindowDecorator\obj\Debug\net8.0\WindowDecorator.csproj.CoreCompileInputs.cache
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\WindowDecorator\WindowDecorator\bin\Debug\net8.0\WindowDecorator.exe
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\WindowDecorator\WindowDecorator\bin\Debug\net8.0\WindowDecorator.deps.json
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\WindowDecorator\WindowDecorator\bin\Debug\net8.0\WindowDecorator.runtimeconfig.json
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\WindowDecorator\WindowDecorator\bin\Debug\net8.0\WindowDecorator.dll
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\WindowDecorator\WindowDecorator\bin\Debug\net8.0\WindowDecorator.pdb
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\WindowDecorator\WindowDecorator\obj\Debug\net8.0\WindowDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\WindowDecorator\WindowDecorator\obj\Debug\net8.0\WindowDecorator.AssemblyInfoInputs.cache
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\WindowDecorator\WindowDecorator\obj\Debug\net8.0\WindowDecorator.AssemblyInfo.cs
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\WindowDecorator\WindowDecorator\obj\Debug\net8.0\WindowDecorator.csproj.CoreCompileInputs.cache
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\WindowDecorator\WindowDecorator\obj\Debug\net8.0\WindowDecorator.sourcelink.json
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\WindowDecorator\WindowDecorator\obj\Debug\net8.0\WindowDecorator.dll
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\WindowDecorator\WindowDecorator\obj\Debug\net8.0\refint\WindowDecorator.dll
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\WindowDecorator\WindowDecorator\obj\Debug\net8.0\WindowDecorator.pdb
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\WindowDecorator\WindowDecorator\obj\Debug\net8.0\WindowDecorator.genruntimeconfig.cache
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\WindowDecorator\WindowDecorator\obj\Debug\net8.0\ref\WindowDecorator.dll

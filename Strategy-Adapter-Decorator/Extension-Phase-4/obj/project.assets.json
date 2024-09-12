@@ -1,11 +1,68 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Counter-Phase-2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Strategy-Phase-2": "1.0.0",
+          "Strategy_Adapter_Decorator": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Counter-Phase-2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Counter-Phase-2.dll": {}
+        }
+      },
+      "Strategy-Phase-2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Strategy_Adapter_Decorator": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Strategy-Phase-2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Strategy-Phase-2.dll": {}
+        }
+      },
+      "Strategy_Adapter_Decorator/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Strategy_Adapter_Decorator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Strategy_Adapter_Decorator.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Counter-Phase-2/1.0.0": {
+      "type": "project",
+      "path": "../Counter-Phase-2/Counter-Phase-2.csproj",
+      "msbuildProject": "../Counter-Phase-2/Counter-Phase-2.csproj"
+    },
+    "Strategy-Phase-2/1.0.0": {
+      "type": "project",
+      "path": "../Strategy-Phase-2/Strategy-Phase-2.csproj",
+      "msbuildProject": "../Strategy-Phase-2/Strategy-Phase-2.csproj"
+    },
+    "Strategy_Adapter_Decorator/1.0.0": {
+      "type": "project",
+      "path": "../Strategy-Adapter-Decorator/Strategy-Adapter-Decorator.csproj",
+      "msbuildProject": "../Strategy-Adapter-Decorator/Strategy-Adapter-Decorator.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Counter-Phase-2 >= 1.0.0",
+      "Strategy-Phase-2 >= 1.0.0",
+      "Strategy_Adapter_Decorator >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Maximilian\\.nuget\\packages\\": {},
@@ -39,7 +96,17 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Counter-Phase-2\\Counter-Phase-2.csproj": {
+              "projectPath": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Counter-Phase-2\\Counter-Phase-2.csproj"
+            },
+            "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator.csproj": {
+              "projectPath": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator.csproj"
+            },
+            "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Phase-2\\Strategy-Phase-2.csproj": {
+              "projectPath": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Phase-2\\Strategy-Phase-2.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -4,6 +4,78 @@
     "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Extension-Phase-4\\Extension-Phase-4.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Counter-Phase-2\\Counter-Phase-2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Counter-Phase-2\\Counter-Phase-2.csproj",
+        "projectName": "Counter-Phase-2",
+        "projectPath": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Counter-Phase-2\\Counter-Phase-2.csproj",
+        "packagesPath": "C:\\Users\\Maximilian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Counter-Phase-2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maximilian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator.csproj": {
+                "projectPath": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator.csproj"
+              },
+              "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Phase-2\\Strategy-Phase-2.csproj": {
+                "projectPath": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Phase-2\\Strategy-Phase-2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Extension-Phase-4\\Extension-Phase-4.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -32,7 +104,125 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Counter-Phase-2\\Counter-Phase-2.csproj": {
+                "projectPath": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Counter-Phase-2\\Counter-Phase-2.csproj"
+              },
+              "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator.csproj": {
+                "projectPath": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator.csproj"
+              },
+              "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Phase-2\\Strategy-Phase-2.csproj": {
+                "projectPath": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Phase-2\\Strategy-Phase-2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator.csproj",
+        "projectName": "Strategy_Adapter_Decorator",
+        "projectPath": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator.csproj",
+        "packagesPath": "C:\\Users\\Maximilian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator\\obj\\",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maximilian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
             "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Phase-2\\Strategy-Phase-2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Phase-2\\Strategy-Phase-2.csproj",
+        "projectName": "Strategy-Phase-2",
+        "projectPath": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Phase-2\\Strategy-Phase-2.csproj",
+        "packagesPath": "C:\\Users\\Maximilian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Phase-2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maximilian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator.csproj": {
+                "projectPath": "C:\\Users\\Maximilian\\Documents\\GitHub\\2024-25_SEW_Zainzinger\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator\\Strategy-Adapter-Decorator.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

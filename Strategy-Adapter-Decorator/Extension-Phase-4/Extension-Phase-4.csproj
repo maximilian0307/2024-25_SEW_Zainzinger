@@ -10,4 +10,10 @@
     </PropertyGroup>
 
 
+    <ItemGroup>
+      <ProjectReference Include="..\Counter-Phase-2\Counter-Phase-2.csproj" />
+      <ProjectReference Include="..\Strategy-Adapter-Decorator\Strategy-Adapter-Decorator.csproj" />
+      <ProjectReference Include="..\Strategy-Phase-2\Strategy-Phase-2.csproj" />
+    </ItemGroup>
+
 </Project>

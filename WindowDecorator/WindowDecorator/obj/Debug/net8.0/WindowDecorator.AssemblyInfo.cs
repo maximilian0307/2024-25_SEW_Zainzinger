@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WindowDecorator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fdd88fb34b2fc16631747a909eac128f04e4e65")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd3e98a91e86834309636e2be41153e27070b011")]
 [assembly: System.Reflection.AssemblyProductAttribute("WindowDecorator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WindowDecorator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

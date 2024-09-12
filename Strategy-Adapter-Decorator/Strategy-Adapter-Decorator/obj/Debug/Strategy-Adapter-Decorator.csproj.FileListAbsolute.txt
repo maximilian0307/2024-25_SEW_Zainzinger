@@ -1,0 +1,6 @@
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\Strategy-Adapter-Decorator\Strategy-Adapter-Decorator\bin\Debug\Strategy_Adapter_Decorator.dll
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\Strategy-Adapter-Decorator\Strategy-Adapter-Decorator\bin\Debug\Strategy_Adapter_Decorator.pdb
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\Strategy-Adapter-Decorator\Strategy-Adapter-Decorator\obj\Debug\Strategy-Adapter-Decorator.csproj.AssemblyReference.cache
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\Strategy-Adapter-Decorator\Strategy-Adapter-Decorator\obj\Debug\Strategy-Adapter-Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\Strategy-Adapter-Decorator\Strategy-Adapter-Decorator\obj\Debug\Strategy_Adapter_Decorator.dll
+C:\Users\Maximilian\Documents\GitHub\2024-25_SEW_Zainzinger\Strategy-Adapter-Decorator\Strategy-Adapter-Decorator\obj\Debug\Strategy_Adapter_Decorator.pdb

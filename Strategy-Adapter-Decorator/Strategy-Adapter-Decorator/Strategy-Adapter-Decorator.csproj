@@ -39,7 +39,11 @@
         <Reference Include="System.Xml"/>
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Duck.cs" />
+        <Compile Include="IFlyable.cs" />
         <Compile Include="IFlyBehavior.cs" />
+        <Compile Include="IQauckBehavior.cs" />
+        <Compile Include="IQuackable.cs" />
         <Compile Include="IQuackBehavior.cs" />
         <Compile Include="MallardDuck.cs" />
         <Compile Include="PlasticDuck.cs" />

@@ -19,6 +19,7 @@ public class Tests
             new RedheadDuck(),
             new RubberDuck(),
             new PlasticDuck()
+            
         };
 
        

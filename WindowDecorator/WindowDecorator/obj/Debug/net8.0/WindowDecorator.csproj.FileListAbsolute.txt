@@ -1,0 +1,4 @@
+C:\Users\Maximilian\OneDrive - HTL Krems\Apps\Desktop\Schule\4CHIT\SEW\WindowDecorator\WindowDecorator\obj\Debug\net8.0\WindowDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maximilian\OneDrive - HTL Krems\Apps\Desktop\Schule\4CHIT\SEW\WindowDecorator\WindowDecorator\obj\Debug\net8.0\WindowDecorator.AssemblyInfoInputs.cache
+C:\Users\Maximilian\OneDrive - HTL Krems\Apps\Desktop\Schule\4CHIT\SEW\WindowDecorator\WindowDecorator\obj\Debug\net8.0\WindowDecorator.AssemblyInfo.cs
+C:\Users\Maximilian\OneDrive - HTL Krems\Apps\Desktop\Schule\4CHIT\SEW\WindowDecorator\WindowDecorator\obj\Debug\net8.0\WindowDecorator.csproj.CoreCompileInputs.cache

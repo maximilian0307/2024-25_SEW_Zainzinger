@@ -1,0 +1,12 @@
+C:\Users\tfrab\RiderProjects\2425-SEW4-Hausübungen\Hausübung-3-Teamwork-Auto\bin\Debug\net8.0\Hausübung-3-Teamwork-Auto.deps.json
+C:\Users\tfrab\RiderProjects\2425-SEW4-Hausübungen\Hausübung-3-Teamwork-Auto\bin\Debug\net8.0\Hausübung-3-Teamwork-Auto.dll
+C:\Users\tfrab\RiderProjects\2425-SEW4-Hausübungen\Hausübung-3-Teamwork-Auto\bin\Debug\net8.0\Hausübung-3-Teamwork-Auto.pdb
+C:\Users\tfrab\RiderProjects\2425-SEW4-Hausübungen\Hausübung-3-Teamwork-Auto\obj\Debug\net8.0\Hausübung-3-Teamwork-Auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tfrab\RiderProjects\2425-SEW4-Hausübungen\Hausübung-3-Teamwork-Auto\obj\Debug\net8.0\Hausübung-3-Teamwork-Auto.AssemblyInfoInputs.cache
+C:\Users\tfrab\RiderProjects\2425-SEW4-Hausübungen\Hausübung-3-Teamwork-Auto\obj\Debug\net8.0\Hausübung-3-Teamwork-Auto.AssemblyInfo.cs
+C:\Users\tfrab\RiderProjects\2425-SEW4-Hausübungen\Hausübung-3-Teamwork-Auto\obj\Debug\net8.0\Hausübung-3-Teamwork-Auto.csproj.CoreCompileInputs.cache
+C:\Users\tfrab\RiderProjects\2425-SEW4-Hausübungen\Hausübung-3-Teamwork-Auto\obj\Debug\net8.0\Hausübung-3-Teamwork-Auto.sourcelink.json
+C:\Users\tfrab\RiderProjects\2425-SEW4-Hausübungen\Hausübung-3-Teamwork-Auto\obj\Debug\net8.0\Hausübung-3-Teamwork-Auto.dll
+C:\Users\tfrab\RiderProjects\2425-SEW4-Hausübungen\Hausübung-3-Teamwork-Auto\obj\Debug\net8.0\refint\Hausübung-3-Teamwork-Auto.dll
+C:\Users\tfrab\RiderProjects\2425-SEW4-Hausübungen\Hausübung-3-Teamwork-Auto\obj\Debug\net8.0\Hausübung-3-Teamwork-Auto.pdb
+C:\Users\tfrab\RiderProjects\2425-SEW4-Hausübungen\Hausübung-3-Teamwork-Auto\obj\Debug\net8.0\ref\Hausübung-3-Teamwork-Auto.dll

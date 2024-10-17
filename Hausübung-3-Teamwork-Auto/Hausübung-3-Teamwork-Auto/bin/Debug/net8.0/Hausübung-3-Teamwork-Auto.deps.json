@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hausübung-3-Teamwork-Auto/1.0.0": {
+        "runtime": {
+          "Hausübung-3-Teamwork-Auto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hausübung-3-Teamwork-Auto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

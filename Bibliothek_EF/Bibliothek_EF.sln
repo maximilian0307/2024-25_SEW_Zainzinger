@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bibliothek_EF", "Bibliothek_EF\Bibliothek_EF.csproj", "{B86073E6-2F80-4F4B-8696-67C4284DE756}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B86073E6-2F80-4F4B-8696-67C4284DE756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86073E6-2F80-4F4B-8696-67C4284DE756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86073E6-2F80-4F4B-8696-67C4284DE756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86073E6-2F80-4F4B-8696-67C4284DE756}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

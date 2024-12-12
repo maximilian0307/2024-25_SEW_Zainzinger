@@ -1,0 +1,15 @@
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\SemaphoreSlimFirstTask\bin\Debug\net8.0\SemaphoreSlimFirstTask.exe
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\SemaphoreSlimFirstTask\bin\Debug\net8.0\SemaphoreSlimFirstTask.deps.json
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\SemaphoreSlimFirstTask\bin\Debug\net8.0\SemaphoreSlimFirstTask.runtimeconfig.json
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\SemaphoreSlimFirstTask\bin\Debug\net8.0\SemaphoreSlimFirstTask.dll
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\SemaphoreSlimFirstTask\bin\Debug\net8.0\SemaphoreSlimFirstTask.pdb
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\SemaphoreSlimFirstTask\obj\Debug\net8.0\SemaphoreSlimFirstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\SemaphoreSlimFirstTask\obj\Debug\net8.0\SemaphoreSlimFirstTask.AssemblyInfoInputs.cache
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\SemaphoreSlimFirstTask\obj\Debug\net8.0\SemaphoreSlimFirstTask.AssemblyInfo.cs
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\SemaphoreSlimFirstTask\obj\Debug\net8.0\SemaphoreSlimFirstTask.csproj.CoreCompileInputs.cache
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\SemaphoreSlimFirstTask\obj\Debug\net8.0\SemaphoreSlimFirstTask.sourcelink.json
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\SemaphoreSlimFirstTask\obj\Debug\net8.0\SemaphoreSlimFirstTask.dll
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\SemaphoreSlimFirstTask\obj\Debug\net8.0\refint\SemaphoreSlimFirstTask.dll
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\SemaphoreSlimFirstTask\obj\Debug\net8.0\SemaphoreSlimFirstTask.pdb
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\SemaphoreSlimFirstTask\obj\Debug\net8.0\SemaphoreSlimFirstTask.genruntimeconfig.cache
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\SemaphoreSlimFirstTask\obj\Debug\net8.0\ref\SemaphoreSlimFirstTask.dll

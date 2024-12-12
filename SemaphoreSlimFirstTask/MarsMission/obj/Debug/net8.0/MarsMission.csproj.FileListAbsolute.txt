@@ -1,0 +1,15 @@
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\MarsMission\bin\Debug\net8.0\MarsMission.exe
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\MarsMission\bin\Debug\net8.0\MarsMission.deps.json
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\MarsMission\bin\Debug\net8.0\MarsMission.runtimeconfig.json
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\MarsMission\bin\Debug\net8.0\MarsMission.dll
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\MarsMission\bin\Debug\net8.0\MarsMission.pdb
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\MarsMission\obj\Debug\net8.0\MarsMission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\MarsMission\obj\Debug\net8.0\MarsMission.AssemblyInfoInputs.cache
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\MarsMission\obj\Debug\net8.0\MarsMission.AssemblyInfo.cs
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\MarsMission\obj\Debug\net8.0\MarsMission.csproj.CoreCompileInputs.cache
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\MarsMission\obj\Debug\net8.0\MarsMission.sourcelink.json
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\MarsMission\obj\Debug\net8.0\MarsMission.dll
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\MarsMission\obj\Debug\net8.0\refint\MarsMission.dll
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\MarsMission\obj\Debug\net8.0\MarsMission.pdb
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\MarsMission\obj\Debug\net8.0\MarsMission.genruntimeconfig.cache
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\MarsMission\obj\Debug\net8.0\ref\MarsMission.dll

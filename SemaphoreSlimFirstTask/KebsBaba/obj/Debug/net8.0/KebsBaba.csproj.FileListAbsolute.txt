@@ -1,0 +1,15 @@
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\KebsBaba\bin\Debug\net8.0\KebsBaba.exe
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\KebsBaba\bin\Debug\net8.0\KebsBaba.deps.json
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\KebsBaba\bin\Debug\net8.0\KebsBaba.runtimeconfig.json
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\KebsBaba\bin\Debug\net8.0\KebsBaba.dll
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\KebsBaba\bin\Debug\net8.0\KebsBaba.pdb
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\KebsBaba\obj\Debug\net8.0\KebsBaba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\KebsBaba\obj\Debug\net8.0\KebsBaba.AssemblyInfoInputs.cache
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\KebsBaba\obj\Debug\net8.0\KebsBaba.AssemblyInfo.cs
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\KebsBaba\obj\Debug\net8.0\KebsBaba.csproj.CoreCompileInputs.cache
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\KebsBaba\obj\Debug\net8.0\KebsBaba.sourcelink.json
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\KebsBaba\obj\Debug\net8.0\KebsBaba.dll
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\KebsBaba\obj\Debug\net8.0\refint\KebsBaba.dll
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\KebsBaba\obj\Debug\net8.0\KebsBaba.pdb
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\KebsBaba\obj\Debug\net8.0\KebsBaba.genruntimeconfig.cache
+C:\Users\Kainz\Schule\4 CHIT\SEW\24_25_SEW_4CHIT_Kainz\SÜ\SemaphoreSlimFirstTask\KebsBaba\obj\Debug\net8.0\ref\KebsBaba.dll
